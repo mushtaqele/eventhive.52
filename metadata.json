@@ -1,0 +1,5 @@
+{
+  "name": "EventHive - Management & Ticketing",
+  "description": "A comprehensive event management and ticketing system built with React and Tailwind CSS. Users can browse events, book tickets with QR codes, and organizers can manage their events and track attendees in real-time.",
+  "requestFramePermissions": []
+}
